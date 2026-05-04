@@ -1,0 +1,7 @@
+name = "rev-van-worker-rev133"
+main = "worker.js"
+compatibility_date = "2025-08-01"
+
+# OCRでWorkers AIを使う既存Workerへ統合する場合は、既存のAI bindingを残してください。
+# [ai]
+# binding = "AI"
